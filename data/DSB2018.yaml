@@ -1,0 +1,10 @@
+path: /ASF-YOLO/datasets/DSB2018
+train: # train images (relative to 'path')  536 images
+  - images/train
+val: # val images (relative to 'path')  134 images
+  - images/val
+test: # test images (optional)
+  - images/val
+# Classes
+names:
+  0: cell

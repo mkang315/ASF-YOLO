@@ -1,0 +1,53 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/pytorch110/lib/python3.9/site-packages/git/__init__.py", line 89, in <module>
+    refresh()
+  File "/home/ubuntu/anaconda3/envs/pytorch110/lib/python3.9/site-packages/git/__init__.py", line 76, in refresh
+    if not Git.refresh(path=path):
+  File "/home/ubuntu/anaconda3/envs/pytorch110/lib/python3.9/site-packages/git/cmd.py", line 389, in refresh
+    raise ImportError(err)
+ImportError: Bad git executable.
+The git executable must be specified in one of the following ways:
+    - be included in your $PATH
+    - be set via $GIT_PYTHON_GIT_EXECUTABLE
+    - explicitly set via git.refresh()
+
+All git commands will error until this is rectified.
+
+This initial warning can be silenced or aggravated in the future by setting the
+$GIT_PYTHON_REFRESH environment variable. Use one of the following values:
+    - quiet|q|silence|s|none|n|0: for no warning or exception
+    - warn|w|warning|1: for a printed warning
+    - error|e|raise|r|2: for a raised exception
+
+Example:
+    export GIT_PYTHON_REFRESH=quiet
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/work/code/yolov5-master-v7.0/train.py", line 66, in <module>
+    GIT_INFO = check_git_info()
+  File "/home/ubuntu/anaconda3/envs/pytorch110/lib/python3.9/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "/home/ubuntu/work/code/yolov5-master-v7.0/utils/general.py", line 350, in check_git_info
+    import git
+  File "/home/ubuntu/anaconda3/envs/pytorch110/lib/python3.9/site-packages/git/__init__.py", line 91, in <module>
+    raise ImportError("Failed to initialize: {0}".format(exc)) from exc
+ImportError: Failed to initialize: Bad git executable.
+The git executable must be specified in one of the following ways:
+    - be included in your $PATH
+    - be set via $GIT_PYTHON_GIT_EXECUTABLE
+    - explicitly set via git.refresh()
+
+All git commands will error until this is rectified.
+
+This initial warning can be silenced or aggravated in the future by setting the
+$GIT_PYTHON_REFRESH environment variable. Use one of the following values:
+    - quiet|q|silence|s|none|n|0: for no warning or exception
+    - warn|w|warning|1: for a printed warning
+    - error|e|raise|r|2: for a raised exception
+
+Example:
+    export GIT_PYTHON_REFRESH=quiet
+

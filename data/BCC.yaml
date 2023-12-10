@@ -1,0 +1,10 @@
+path: /ASF-YOLO/datasets/BCC
+train: # train images (relative to 'path')  128 images
+  - images/train
+val: # val images (relative to 'path')  32 images
+  - images/val
+test: # test images (optional)
+  - images/val
+# Classes
+names:
+  0: cell
