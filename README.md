@@ -45,4 +45,4 @@ Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model 
 ASF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please see the [LICENSE](https://github.com/mkang315/ASF-YOLO/blob/main/LICENSE) file for more information.
 
 ## Copyright Notice
-Many utility codes of our project base on the codes of [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5), and [EIoU](https://github.com/arojsubedi/Focal-EIoU) repositories.
+Many utility codes of our project base on the codes of [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5), [EIoU](https://github.com/arojsubedi/Focal-EIoU) and [Soft-NMS](https://github.com/bharatsingh430/soft-nms) repositories.
