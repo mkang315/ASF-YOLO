@@ -8,6 +8,11 @@ The model configuration (i.e., network construction) file is asf-yolo.yaml in th
 
 The hyperparameter setting file is hyp.scratch-low.yaml in the directory [./data/hyps/](https://github.com/mkang315/ASF-YOLO/blob/main/data/hyps).
 
+Install requirements.txt in a Python>=3.8.0 environment, including PyTorch>=1.8.
+```
+pip install -r requirements.txt  # install
+```
+
 ###### Training CLI
 ```
 python segment/train.py
