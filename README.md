@@ -33,7 +33,7 @@ Please cite our paper if you use code from this repository:
 > Plain Text
 
 - *Elsevier* Style</br>
-M. Kang, C.-M. Ting, F. F. Ting, R. C.-W. Phan, ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. in press (2024) 105057</br>
+M. Kang, C.-M. Ting, F. F. Ting, R. C.-W. Phan, ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. in press, 2024, 105057</br>
 
 - *IEEE* Style</br>
 M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation," *Image Vis. Comput.*, in press, 105057, May 2024.</br>
@@ -43,6 +43,39 @@ Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. ASF-YOLO: a novel YOLO model
 
 - *Springer* Style</br>
 Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. Image Vis. Comput. in press 105057 (2024)</br>
+
+> BibTeX Format</br>
+```
+\begin{thebibliography}{1}
+\bibitem{b1} M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation," \emph{Image Vis. Comput.}, in press, 105057, May 2024.
+\end{thebibliography}
+```
+```
+@article{Kang23Rcsyolo,
+  author = "Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W.",
+  title = "ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation",
+  journal = "Image Vis. Comput.",
+  volume = "in press",
+  pages = "105057",
+  publisher = "Elsevier",
+  address = "Amsterdam",
+  year = "2024",
+  doi= "10.1016/j.imavis.2024.105057",
+  url = "https://doi.org/10.1016/j.imavis.2024.105057"
+}
+```
+```
+@article{Kang23Rcsyolo,
+  author = "Ming Kang and Chee-Ming Ting and Fung Fung Ting and Rapha{\"e}l C.-W. Phan",
+  title = "ASF-YOLO: A novel yolo model with attentional scale sequence fusion for cell instance segmentation",
+  journal = "Image Vis. Comput.",
+  volume = "in press",
+  note = "p. 105057",
+  month = "May",
+  year = "2024",
+}
+```
+<sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file. `kang2023rcsyolo` could be `b1`, `bib1`, or `ref1` when references appear in the order in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
 
 ## License
 ASF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please see the [LICENSE](https://github.com/mkang315/ASF-YOLO/blob/main/LICENSE) file for more information.
