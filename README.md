@@ -75,7 +75,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
   url = "https://doi.org/10.1016/j.imavis.2024.105057"
 }
 ```
-<sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file if applicable that defines bibliography/reference style. `Kang24Asfyolo` could be `b1`, `bib1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
+<sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file if applicable which defines bibliography/reference style. `Kang24Asfyolo` could be `b1`, `bib1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
 
 ## License
 ASF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please see the [LICENSE](https://github.com/mkang315/ASF-YOLO/blob/main/LICENSE) file for more information.
