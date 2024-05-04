@@ -32,16 +32,16 @@ We trained and evaluated ASF-YOLO on the two [datasets](https://github.com/mkang
 Please cite our paper if you use code from this repository:
 > Plain Text
 
-- *Elsevier* Style</br>
+- Elsevier Reference Style</br>
 M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. in press (2024) 105057.</br>
 
-- *IEEE* Style</br>
+- IEEE Reference Style</br>
 M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation," *Image Vis. Comput.*, in press, 105057, May 2024.</br>
 
-- *Nature* Style</br>
+- Nature Reference Style</br>
 Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image Vis. Comput.* **in press** 105057 (2024).</br>
 
-- *Springer* Style</br>
+- Springer Reference Style</br>
 Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. Image Vis. Comput. **in press**, 105057 (2024)</br>
 
 > BibTeX Format</br>
@@ -75,7 +75,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
   url = "https://doi.org/10.1016/j.imavis.2024.105057"
 }
 ```
-<sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file. `Kang24Asfyolo` could be `b1`, `bib1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
+<sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file that defines bibliography/reference style. `Kang24Asfyolo` could be `b1`, `bib1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
 
 ## License
 ASF-YOLO is released under the GNU Affero General Public License v3.0 (AGPL-3.0). Please see the [LICENSE](https://github.com/mkang315/ASF-YOLO/blob/main/LICENSE) file for more information.
