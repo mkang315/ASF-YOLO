@@ -57,7 +57,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
   journal = "Image Vis. Comput.",
   volume = "147",
   note = "p. 105057",
-  month = "May",
+  month = "Jul.",
   year = "2024",
 }
 ```
