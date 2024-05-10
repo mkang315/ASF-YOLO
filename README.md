@@ -33,21 +33,21 @@ Please cite our paper if you use code from this repository:
 > Plain Text
 
 - Elsevier Reference Style</br>
-M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. in press (2024) 105057.</br>
+M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. 147 (2024) 105057.</br>
 
 - IEEE Reference Style</br>
-M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel yolo model with attentional scale sequence fusion for cell instance segmentation," *Image Vis. Comput.*, in press, 105057, May 2024.</br>
+M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel yolo model with attentional scale sequence fusion for cell instance segmentation," *Image Vis. Comput.*, vol. 147, 105057, May 2024.</br>
 
 - Nature Reference Style</br>
-Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image Vis. Comput.* **in press** 105057 (2024).</br>
+Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image Vis. Comput.* **147** 105057 (2024).</br>
 
 - Springer Reference Style</br>
-Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. Image Vis. Comput. **in press**, 105057 (2024)</br>
+Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. Image Vis. Comput. **147**, 105057 (2024)</br>
 
 > BibTeX Format</br>
 ```
 \begin{thebibliography}{1}
-\bibitem{1} M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. in press (2024) 105057.
+\bibitem{1} M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. 147 (2024) 105057.
 \end{thebibliography}
 ```
 ```
@@ -55,7 +55,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
   author = "Ming Kang and Chee-Ming Ting and Fung Fung Ting and Rapha{\"e}l C.-W. Phan",
   title = "ASF-YOLO: A novel yolo model with attentional scale sequence fusion for cell instance segmentation",
   journal = "Image Vis. Comput.",
-  volume = "in press",
+  volume = "147",
   note = "p. 105057",
   month = "May",
   year = "2024",
@@ -66,7 +66,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
   author = "Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W.",
   title = "ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation",
   journal = "Image Vis. Comput.",
-  volume = "in press",
+  volume = "147",
   pages = "105057",
   publisher = "Elsevier",
   address = "Amsterdam",
