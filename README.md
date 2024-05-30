@@ -1,5 +1,5 @@
 # Official ASF-YOLO
-This is the source code for the paper, "ASF-YOLO: A Novel YOLO Model with Attentional Scale Sequence Fusion for Cell Instance Segmentation" published by the Image and Vision Computing (IMAVIS), of which I am the first author. The paper is available to download on [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0262885624001616) or [arXiv](https://arxiv.org/abs/2312.06458).
+This is the source code for the paper, "ASF-YOLO: A Novel YOLO Model with Attentional Scale Sequence Fusion for Cell Instance Segmentation" published on Image and Vision Computing (IMAVIS), of which I am the first author. The paper is available to download on [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0262885624001616) or [arXiv](https://arxiv.org/abs/2312.06458).
 
 ## Model
 The model configuration (i.e., network construction) file is asf-yolo.yaml in the directory [./models/segment](https://github.com/mkang315/ASF-YOLO/blob/main/models/segment).
