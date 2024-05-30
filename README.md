@@ -26,7 +26,7 @@ python segment/predict.py
 ```
 
 ## Evaluation
-We trained and evaluated ASF-YOLO on the two [datasets](https://github.com/mkang315/ASF-YOLO/tree/main/datasets): the [2018 Data Science Bowl (DSB2018)](https://kaggle.com/competitions/data-science-bowl-2018) from Kaggle and the [Breast Cancer Cell (BCC) dataset](https://bioimage.ucsb.edu/research/bio-segmentation) from the Center for Bio-Image Informatics, University of California, Santa Barbara (UCSB CBI). The [yolov5-seg.pt](https://github.com/mkang315/ASF-YOLO/blob/main/yolov5l-seg.pt) is the weight of and isn't the training weight on the evaluation datasets.
+We trained and evaluated ASF-YOLO on the two [datasets](https://github.com/mkang315/ASF-YOLO/tree/main/datasets): the [2018 Data Science Bowl (DSB2018)](https://kaggle.com/competitions/data-science-bowl-2018) from Kaggle and the [Breast Cancer Cell (BCC) dataset](https://bioimage.ucsb.edu/research/bio-segmentation) from the Center for Bio-Image Informatics, University of California, Santa Barbara (UCSB CBI). The [yolov5l-seg.pt](https://github.com/mkang315/ASF-YOLO/blob/main/yolov5l-seg.pt) is the initial weight of the pretrained MS COCO dataset by [YOLOv5l](https://github.com/ultralytics/yolov5) and isn't the training weight on the evaluation datasets, which was stated in the paper.
 
 ## Suggested Citation
 Please cite our paper if you use code from this repository:
