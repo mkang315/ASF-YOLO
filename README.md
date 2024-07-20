@@ -56,7 +56,10 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
   title = "ASF-YOLO: A novel yolo model with attentional scale sequence fusion for cell instance segmentation",
   journal = "Image Vis. Comput.",
   volume = "147",
-  note = "p. 105057",
+  % ieee_fullname.bst
+  pages = "105057",
+  % IEEEbib.bst
+  note = "p. 105057", 
   month = "Jul.",
   year = "2024",
 }
