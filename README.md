@@ -50,7 +50,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
 > BibTeX Format</br>
 ```
 \begin{thebibliography}{1}
-\bibitem{1} M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. 147 (2024) 105057.
+\bibitem{1} M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. 147 (2024) 105057.
 \end{thebibliography}
 ```
 ```
