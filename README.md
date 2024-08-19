@@ -32,8 +32,11 @@ We trained and evaluated ASF-YOLO on the two [datasets](https://github.com/mkang
 Please cite our paper if you use code from this repository:
 > Plain Text
 
-- Elsevier Reference Style</br>
-M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. 147 (2024) 105057.</br>
+- Elsevier Numbered Style</br>
+M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. 147 (2024) 105057.</br>
+
+- Harvard (Name–Date) Style</br>
+Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation. Image Vis. Comput. 147, 105057.</br>
 
 - IEEE Reference Style</br>
 M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel yolo model with attentional scale sequence fusion for cell instance segmentation," *Image Vis. Comput.*, vol. 147, 105057, Jul. 2024.</br>
