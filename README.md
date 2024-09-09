@@ -11,7 +11,7 @@ The hyperparameter setting file is hyp.scratch-low.yaml in the directory [./data
 ##### Installation
 Install requirements.txt in a Python>=3.8.0 environment, including PyTorch>=1.8.
 ```
-pip install -r requirements.txt  # install
+pip install -r requirements.txt
 ```
 
 ##### Training CLI
