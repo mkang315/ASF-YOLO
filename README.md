@@ -41,7 +41,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. ASF-YOLO: A novel YOLO m
 - IEEE Reference Style</br>
 M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel yolo model with attentional scale sequence fusion for cell instance segmentation," *Image Vis. Comput.*, vol. 147, 105057, Jul. 2024.</br>
 
-- Nature Reference Style</br>
+- Nature Referencing Style</br>
 Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image Vis. Comput.* **147** 105057 (2024).</br>
 
 - Springer Reference Style</br>
