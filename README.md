@@ -61,7 +61,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
 ```
 @article{Kang24Asfyolo,
   author = "Ming Kang and Chee-Ming Ting and Fung Fung Ting and Rapha{\"e}l C.-W. Phan",
-  title = "ASF-YOLO: A novel yolo model with attentional scale sequence fusion for cell instance segmentation",
+  title = "ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation",
   journal = "Image Vis. Comput.",
   volume = "147",
   % ieee_fullname.bst
@@ -75,7 +75,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
 ```
 @article{Kang24Asfyolo,
   author = "Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W.",
-  title = "ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation",
+  title = "{ASF-YOLO}: a novel {YOLO} model with attentional scale sequence fusion for cell instance segmentation",
   journal = "Image Vis. Comput.",
   volume = "147",
   pages = "105057",
