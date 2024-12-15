@@ -67,7 +67,7 @@ Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W.: ASF-YOLO: a novel YOLO model w
   % ieee_fullname.bst
   pages = "105057",
   % IEEEbib.bst
-  note = "p. 105057", 
+  note = "Art. no. 105057", 
   month = "Jul.",
   year = "2024",
 }
