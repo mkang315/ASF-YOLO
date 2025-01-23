@@ -78,7 +78,7 @@ Kang, M., Ting, C.-M., Ting, F.F., & Phan, R.C.-W. (2024). ASF-YOLO: A novel YOL
   % IEEEbib.bst
   note = "Art. no. 105057", 
   month = "Jul.",
-  year = "2024",
+  year = "2024"
 }
 ```
 ```
