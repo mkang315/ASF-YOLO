@@ -35,7 +35,7 @@ Please cite our paper if you use code from this repository. Here is a guide to r
 - Elsevier Numbered Style</br>
 M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. 147 (2024) 105057.</br>
 
-- Harvard (Name–Date) Style</br>
+- Elsevier Name–Date (Harvard) Style</br>
 Kang, M., Ting, C.-M., Ting, F.F., Phan, R.C.-W., 2024. ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation. Image Vis. Comput. 147, 105057.</br>
 
 - IEEE Reference Style</br>
