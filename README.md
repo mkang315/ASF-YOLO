@@ -6,7 +6,7 @@
 <a href="https://arxiv.org/abs/2312.06458"><img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-2312.06458-b31b1b.svg"></a>
 </div>
 
-## Introduction
+## Description
 This is the source code for the paper "ASF-YOLO: A Novel YOLO Model with Attentional Scale Sequence Fusion for Cell Instance Segmentation" published on Image and Vision Computing (IMAVIS), of which I am the first author. The paper is available to download on [ScienceDirect.com by Elsevier](https://www.sciencedirect.com/science/article/pii/S0262885624001616) or [arXiv](https://arxiv.org/abs/2312.06458).
 
 ## Model
