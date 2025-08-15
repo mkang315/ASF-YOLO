@@ -37,9 +37,9 @@ python segment/predict.py
 We trained and evaluated ASF-YOLO on the two [datasets](https://github.com/mkang315/ASF-YOLO/tree/main/datasets): the [2018 Data Science Bowl (DSB2018)](https://kaggle.com/competitions/data-science-bowl-2018) from Kaggle and the [Breast Cancer Cell (BCC) dataset](https://bioimage.ucsb.edu/research/bio-segmentation) from the Center for Bio-Image Informatics, University of California, Santa Barbara (UCSB CBI). The [yolov5l-seg.pt](https://github.com/mkang315/ASF-YOLO/blob/main/yolov5l-seg.pt) is the initial weight of the pretrained MS COCO dataset by [YOLOv5l](https://github.com/ultralytics/yolov5) and isn't the ASF-YOLO training weight on the evaluation datasets, which has been stated in the paper.
 
 ## Referencing Guide
-Please cite the paper if using this repository. Here is a guide to referencing this work in various styles for formatting your references:
-> Plain Text
+Please cite the paper if using this repository. Here is a guide to referencing this work in various styles for formatting your references:</br>
 
+> Plain Text</br>
 - **Elsevier Numbered Style**</br>
 M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation, Image Vis. Comput. 147 (2024) 105057.</br>
 
@@ -60,11 +60,13 @@ Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. Asf-yolo: A 
 <sup>**NOTE:** This is a modification to the standard IEEE Reference Style and used by most IEEE/CVF conferences, including *CVPR*, *ICCV*, and *WACV*, to render first names in the bibliography as "Firstname Lastname" rather than "F. Lastname" or "Lastname, F.".</sup></br>
 &nbsp;- **IJCAI Full Name Variation**</br>
 \[Kang *et al.*, 2024\] Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. Asf-yolo: A novel yolo model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147:105057, July 2024.</br>
+&nbsp;- **ACL Full Name Variation**</br>
+Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. 2024. Asf-yolo: A novel yolo model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147:105057.</br>
 
 - **APA7 (Author–Date) Style**</br>
 Kang, M., Ting, C.-M., Ting, F.F., & Phan, R.C.-W. (2024). ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147, 105057. https://doi.org/10.1016/j.imavis.2024.105057</br>
 <sup>**NOTE:** DOI is optional.</sup>
-&nbsp;- **ICML (Author–Date) Variation**</br>
+&nbsp;- **ICML (Author–Year) Variation**</br>
 Kang, M., Ting, C.-M., Ting, F.F., and Phan, R.C.-W. ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147:105057, 2024.</br>
 <sup>**NOTE:** For *NeurIPS* and *ICLR*, any reference/citation style is acceptable as long as it is used consistently.</sup>
 
