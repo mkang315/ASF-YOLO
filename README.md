@@ -51,6 +51,7 @@ Kang M, Ting C-M, Ting FF, Phan RC-W. ASF-YOLO: a novel YOLO model with attentio
 
 - **Elsevier Embellished Vancouver Style**</br>
 Kang M, Ting C-M, Ting FF, Phan RC-W. ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image Vis Comput* 2024;**147**:105057.</br>
+<sup>**NOTE:** For *The Lancet variation*, there is a space after the semicolon (;) and the bolded colon (**:**).</sup></br>
 
 - **Nature Referencing Style**</br>
 Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image Vis. Comput.* **147** 105057 (2024).</br>
