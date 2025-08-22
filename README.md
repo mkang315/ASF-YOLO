@@ -51,7 +51,7 @@ Kang M, Ting C-M, Ting FF, Phan RC-W. ASF-YOLO: a novel YOLO model with attentio
 
 - **Elsevier Embellished Vancouver Style**</br>
 Kang M, Ting C-M, Ting FF, Phan RC-W. ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image Vis Comput* 2024;**147**:105057.</br>
-<sup>**NOTE:** For *The Lancet variation*, there is a space after the semicolon (;) and the bolded colon (**:**).</sup></br>
+<sup>**NOTE:** For **The Lancet variation**, there is a space after the semicolon (;) and the bolded colon (**:**).</sup></br>
 
 - **Nature Referencing Style**</br>
 Kang, M., Ting, C.-M., Ting, F. F. & Phan, R. C.-W. ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image Vis. Comput.* **147** 105057 (2024).</br>
@@ -64,7 +64,7 @@ M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel yolo mode
 
 - **IEEE Full Name Reference Style**</br>
 Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. Asf-yolo: A novel yolo model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147:105057, 2024.</br>
-<sup>**NOTE:** This is a modification to the standard IEEE Reference Style and used by most IEEE/CVF conferences, including *CVPR*, *ICCV*, and *WACV*, to render first names in the bibliography as "Firstname Lastname" rather than "F. Lastname" or "Lastname, F.".</sup></br>
+<sup>**NOTE:** This is a modification to the standard IEEE Reference Style and used by most IEEE/CVF conferences, including **CVPR**, **ICCV**, and **WACV**, to render first names in the bibliography as "Firstname Lastname" rather than "F. Lastname" or "Lastname, F.".</sup></br>
 &nbsp;- **IJCAI Full Name-Year Variation**</br>
 \[Kang *et al.*, 2024\] Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. Asf-yolo: A novel yolo model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147:105057, July 2024.</br>
 &nbsp;- **ACL Full Name-Year Variation**</br>
@@ -75,7 +75,7 @@ Kang, M., Ting, C.-M., Ting, F. F., & Phan, R. C.-W. (2024). ASF-YOLO: A novel Y
 <sup>**NOTE:** DOI is optional.</sup></br>
 &nbsp;- **ICML (Author–Year) Variation**</br>
 Kang, M., Ting, C.-M., Ting, F. F., and Phan, R. C.-W. ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147:105057, 2024.</br>
-<sup>**NOTE:** For *NeurIPS* and *ICLR*, any reference/citation style is acceptable as long as it is used consistently. The sample of references in Formatting Instructions For NeurIPS almost follows APA7 (author–date) style and that in Formatting Instructions For ICLR Conference Submissions is similar to IJCAI full name-year variation.</sup>
+<sup>**NOTE:** For **NeurIPS** and **ICLR**, any reference/citation style is acceptable as long as it is used consistently. The sample of references in Formatting Instructions For NeurIPS almost follows APA7 (author–date) style and that in Formatting Instructions For ICLR Conference Submissions is similar to IJCAI full name-year variation.</sup>
 
 > BibTeX Format</br>
 ```
