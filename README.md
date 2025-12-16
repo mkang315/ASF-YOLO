@@ -73,6 +73,8 @@ Ming Kang, Chee-Ming Ting, Fung Fung Ting, and Raphaël C.-W. Phan. 2024. Asf-yo
 - **APA7 (Author–Date) Style**</br>
 Kang, M., Ting, C.-M., Ting, F. F., & Phan, R. C.-W. (2024). ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147, Article 105057. https://doi.org/10.1016/j.imavis.2024.105057</br>
 <sup>**NOTE:** DOI is optional.</sup></br>
+&nbsp;- **AAAI (Author–Year) Variation**</br>
+Kang, M.; Ting, C.-M.; Ting, F. F.; and Phan, R. C.-W. 2024. ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147: 105057.</br>
 &nbsp;- **ICML (Author–Year) Variation**</br>
 Kang, M., Ting, C.-M., Ting, F. F., and Phan, R. C.-W. ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation. *Image and Vision Computing*, 147:105057, 2024.</br>
 <sup>**NOTE:** For **NeurIPS** and **ICLR**, any reference/citation style is acceptable as long as it is used consistently. The sample of references in Formatting Instructions For NeurIPS almost follows APA7 (author–date) style and that in Formatting Instructions For ICLR Conference Submissions is similar to IJCAI full name-year variation.</sup>
